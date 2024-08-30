@@ -4,13 +4,10 @@
   <default sync-j="2"/>
 
   
-  <remote name="karo"           fetch="https://github.com/karo-electronics"/>
+  <remote name="me"           fetch="https://https://github.com/WRWhite/"/>
  
-  <project
-    remote="karo"
-    name="poky"
-    path="layers/poky"
-    revision="refs/tags/KARO-2024-03-12"
+  <project name "Test-repo"
+    remote="me"
   />
 
 </manifest>
