@@ -4,7 +4,7 @@
   <default sync-j="2"/>
 
   
-  <remote name="me"           fetch="https://https://github.com/WRWhite/"/>
+  <remote name="me"           fetch="https://github.com/WRWhite/"/>
  
   <project name "Test-repo"
     remote="me"
