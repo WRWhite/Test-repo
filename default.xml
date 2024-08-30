@@ -4,13 +4,20 @@
   <default sync-j="2"/>
 
   
-  <remote name="me"           fetch="https://github.com/WRWhite"/>
+  <remote name="WRWhite"           fetch="https://github.com/WRWhite"/>
  
  <project
-    remote="me"
+    remote="WRWhite"
     name="Test-repo"
     path="Test-repo"
     revision="3c91d1f3c6df34660b1c8439b69887c867228ca6"
+  />
+  
+  <project
+    remote="WRWhite"
+    name="ScratchPad"
+    path="WcratchPad"
+    revision="033941b0d11de451799ffe179032e51afffcc6d0"
   />
 
 </manifest>
