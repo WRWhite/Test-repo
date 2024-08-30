@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <default sync-j="2"/>
+
+  
+  <remote name="karo"           fetch="https://github.com/karo-electronics"/>
+ 
+  <project
+    remote="karo"
+    name="poky"
+    path="layers/poky"
+    revision="refs/tags/KARO-2024-03-12"
+  />
+
+</manifest>
