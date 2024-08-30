@@ -10,6 +10,7 @@
     remote="me"
     name="Test-repo"
     path="Test-repo"
+    revision="3c91d1f3c6df34660b1c8439b69887c867228ca6"
   />
 
 </manifest>
