@@ -8,9 +8,7 @@
  
  <project
     remote="WRWhite"
-    <!-- path on remote
     name="Test-repo"
-    <!-- path on local
     path="Test-repo"
   />
   
