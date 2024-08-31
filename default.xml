@@ -8,9 +8,7 @@
  
  <project
     remote="WRWhite"
-   <!-- remote path
     name="Test-repo"
-   <!-- local path
     path="Test-repo"
    revision="master"
   />
