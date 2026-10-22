@@ -5,6 +5,9 @@ Clone with the following command
 repo init https://github.com/WRWhite/Test-repo  
 ```
 
+So I will also update this file on the local repo so now we have a conflich  
+
+
 Note that comments in default.xml are not support so will annotate here instead
 
 ```
