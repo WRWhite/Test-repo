@@ -2,7 +2,11 @@
 Test repository for training. This repo contains the default.xml file for use with the Google repo utility   
 Clone with the following command  
 ```
-repo init https://github.com/WRWhite/Test-repo  
+repo init https://github.com/WRWhite/Test-repo
+```
+The normal `git clone` command would be:  
+```
+git clone https://github.com/WRWhite/Test-repo.git  
 ```
 
 So I will also update this file on the local repo so now we have a conflich  
