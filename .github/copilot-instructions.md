@@ -7,7 +7,7 @@ This is a small training repository for Git and Google's `repo` manifest utility
 The main artifact is `default.xml`, a `repo` manifest that defines:
 
 - a `WRWhite` remote whose fetch base is `https://github.com/WRWhite`
-- the `Test-repo` project at the `Test-repo` checkout path on the `master` revision
+- the `Test-repo` project at the `Test-repo` checkout path on the `main` revision
 - the `ScratchPad` project at the `ScratchPad` checkout path on a pinned commit
 - a default parallel sync setting of `sync-j="2"`
 

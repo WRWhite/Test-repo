@@ -10,7 +10,7 @@
     remote="WRWhite"
     name="Test-repo"
     path="Test-repo"
-   revision="master"
+   revision="main"
   />
   
   <project
