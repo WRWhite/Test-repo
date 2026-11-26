@@ -27,7 +27,7 @@ Note that comments in default.xml are not support so will annotate here instead
  <project
     remote="WRWhite"
     name="Test-repo"    <!-- Add to "fetch" in order to clone ie "git clone https://github.com/WRWhite/Test-repo"
-    path="Test-repo"    <!-- Directiry on target device
+    path="Test-repo"    <!-- Directory on target device
    revision="main"      <!-- Branch, tag or commit hash
   />
   
